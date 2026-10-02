@@ -1,1 +1,1 @@
-{"payload":"{\"version\":1,\"sapPrefixes\":[\"https://api-dev.cuvarzapisnika.com/solun-development\"]}","signature":"YFTLug8PNzpY/M7B1nICz4spgEX0YYcynv471PSyYuT6QUrNlVkBI97PUSJ/XhxNtjwcnueSptFEZ1IMc4R/CA=="}
+{"payload":"{\"version\":2,\"sapPrefixes\":[\"https://blocked.invalid/solun-development\",\"https://192.0.2.1/solun-development\",\"https://api-dev.cuvarzapisnika.com/solun-development\"]}","signature":"szJAC2/Zx9XS28xzWoe/LDEt4ANGlnisl2cme6NwZkRF98sUf0/rT5xOkv9k66XLa7k1yxQYo7t3ko0/dKSGCw=="}
